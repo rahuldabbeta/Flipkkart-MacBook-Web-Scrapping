@@ -1,4 +1,4 @@
-# Flipkkart-MacBook-Web-Scrapping
+# Flipkart-MacBook-Web-Scrapping
 Collected data on macbooks available in flipkart
 # Programming Language
 Python 3
